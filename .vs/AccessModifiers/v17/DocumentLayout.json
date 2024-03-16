@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B524154D-ABCC-42B7-AAE4-FE0ACB3BAE78}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\accessmod\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B524154D-ABCC-42B7-AAE4-FE0ACB3BAE78}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B524154D-ABCC-42B7-AAE4-FE0ACB3BAE78}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\accessmod\\accessmodifiers\\accessmodifiers\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B524154D-ABCC-42B7-AAE4-FE0ACB3BAE78}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B524154D-ABCC-42B7-AAE4-FE0ACB3BAE78}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\accessmod\\accessmodifiers\\accessmodifiers\\chinecity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B524154D-ABCC-42B7-AAE4-FE0ACB3BAE78}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\chinecity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChineCity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\AccessModifiers\\ChineCity.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\ChineCity.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\AccessModifiers\\ChineCity.cs",
+              "RelativeToolTip": "AccessModifiers\\ChineCity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:24:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\AccessModifiers\\City.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\City.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\AccessModifiers\\City.cs",
+              "RelativeToolTip": "AccessModifiers\\City.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:59:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\accessmod\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:58:38.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
